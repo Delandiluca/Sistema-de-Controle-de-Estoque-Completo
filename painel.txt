@@ -1,0 +1,12 @@
+----------------------------------------------
+| Empresa DLTECHNOLOGY                       |
+| Detalhes de Venda da Nota Fiscal 1
+----------------------------------------------
+| Nota Fiscal: 1
+| Data: 21/06/2023
+| ID do Produto: 2
+| Preço de Venda: R$64.50
+| Imposto: 5.00%
+| Quantidade: 3
+| Valor: R$193.50
+----------------------------------------------
